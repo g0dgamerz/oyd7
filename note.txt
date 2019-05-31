@@ -1,0 +1,107 @@
+python
+
+one tab 4 space language
+intendation
+:colon
+    4 space(1tab) after colon
+BODMAS rule
+no defination required
+no typecasting needed 
+
+function
+abs()
+good in complex number handeling
+
+
+a=1+3j
+a.real	====real part
+a.imag	====imaginary part
+
+
+logical operation
+OR (+)
+AND	(-)
+
+logical operation is done in binaray operation
+
+
+loop
+
+for 
+while 
+if
+
+if jidesh is girl:
+	print('false');
+
+
+if and is are keywrord
+
+
+if 1 is 1:
+	print('jidesh');
+
+if(1==1):
+	print('binod');
+
+for and in is keyword
+for jidesh in oyd:
+
+pseudo code with flowchart
+
+Q.find the root of quardratic eq with psudo code and flow chart?
+-->function
+-->loop
+
+Q.solve for x using the bifurcation and trifurcation methods.
+	a.in the interval (0, pi/2) such that 2sin 0.9x =tan x
+	b.in the interval (0, pi) such that (1+cos x)=x^3 .
+
+Q. Find the dot products of two vectors a.b where a = (1.2,-2.3,4.5,6.7) and 
+ 	b=(-9.8,-8.7,7.8,6.5)
+
+pow(2,3,4)==>(2^3)%4;
+
+set, list, tuple ,dictionary
+
+a=['jidesh','sundar']
+a+ ['binod','aftab']
+
+a[0:2]
+
+
+for  x in range(10):
+	print(x)
+
+a=2
+for n in range(100):
+	if n is a:
+		print("jadu")
+
+
+function
+
+def a():
+	print('binod')
+
+
+Q.finbonacii series
+
+
+
+
+argument or parameter
+
+
+def a(name='pratima',action='fart',result='ganayoo'):
+	print(name,action,ganayoo)
+
+
+
+def a(*args):
+	total=0
+		for b in args:
+			total += 0
+		print(total)
+	
+
